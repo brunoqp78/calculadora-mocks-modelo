@@ -1,4 +1,4 @@
-package org.brsoft.test.process;
+package org.brsoft.test.service;
 
 import org.junit.jupiter.api.extension.ExtendWith;
 import org.springframework.test.context.junit.jupiter.SpringExtension;
